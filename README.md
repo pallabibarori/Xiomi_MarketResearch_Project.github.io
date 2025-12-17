@@ -21,7 +21,7 @@
 ## CHAPTER 1: INTRODUCTION
 
 ### 1.1 Objective
-Build a strategy to increase the sales
+**Build a strategy to increase the sales**
 This project aims to enhance Xiaomi's online sales performance within the retail sector through strategic initiatives focused on market analysis, customer engagement on their website . The project will utilize data-driven approaches to identify areas of improvement and implement actionable strategies to drive sales growth and increase market share.
 
 ### 1.2 Project Objectives
